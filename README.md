@@ -1,4 +1,8 @@
 ### Hi there 👋, this is Ariful Islam
+**Location:** New York, USA  
+**Email:** example@example.com  
+**Phone:** +1 (123) 456-7890
+
 #### An Enthusiast web developer. 
 ![I am an Enthusiast web developer. ](https://media.licdn.com/dms/image/D5616AQGkIkFYVkv5MQ/profile-displaybackgroundimage-shrink_350_1400/0/1667040893292?e=1677715200&v=beta&t=_k7Exb0hOIqDkdOPJ7FteufP5oDkTWJAjkskp2OyQ-s)
 
